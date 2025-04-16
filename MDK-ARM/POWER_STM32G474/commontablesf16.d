@@ -1,0 +1,13 @@
+power_stm32g474\commontablesf16.o: C:/Keil_v5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/CommonTables/CommonTablesF16.c
+power_stm32g474\commontablesf16.o: C:/Keil_v5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/CommonTables/arm_common_tables_f16.c
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types_f16.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types.h
+power_stm32g474\commontablesf16.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+power_stm32g474\commontablesf16.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+power_stm32g474\commontablesf16.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+power_stm32g474\commontablesf16.o: C:/Keil_v5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/CommonTables/arm_const_structs_f16.c
+power_stm32g474\commontablesf16.o: C:/Keil_v5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/CommonTables/arm_mve_tables_f16.c
